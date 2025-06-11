@@ -1,0 +1,2328 @@
+.section-1 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.logo {
+  width: 45%;
+  height: 10rem;
+}
+
+.s1-headings {
+
+   margin-right: 40px;
+  margin-top: -1%; 
+
+}
+
+.s1-line {
+  width: 99%;
+  margin-top: -6%;
+}
+
+.line-1 {
+  
+  width: 100%;
+  height: 0.2rem;
+  background-color: rgb(44, 42, 42);
+}
+
+.h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: brown;
+  font-size: 1.8rem;
+}
+
+.h2 {
+  margin-top: -3%;
+  font-family: sans-serif;
+  font-size: 3.4rem;
+  font-weight: bolder;
+  letter-spacing: 0.2rem;
+}
+
+.h-3 {
+  margin-top: -8%;
+  font-family: sans-serif;
+  font-size: 1.4rem;
+  letter-spacing: 0.4px;
+}
+
+#navigation{
+    height: 60px;
+    background-color:  brown;
+    align-items: center;
+     width: 100%; 
+}
+#sec-2-headings{
+ margin-right: 46px;
+    float: right;
+    display: flex;
+    gap: 38px;
+    font-size: 17px;
+  font-weight: lighter;
+ 
+    font-family: sans-serif;
+    color: aliceblue;
+}
+
+.nav-toggle{
+    display: none;
+
+}
+
+#sub-1:hover{
+    background-color: rgb(255, 123, 0);
+margin-bottom: 5px;
+  padding-left: 20px;
+   height: 60px;
+   width: 80px;
+text-decoration: none;
+cursor: pointer;
+}
+.anker-1{
+     color: beige;
+      text-decoration: none;
+      align-content: center;
+}
+.nav-toggle{
+    color: white;
+      text-decoration: none;
+      align-content: center;
+
+}
+
+#sub-2:hover{
+    background-color: aqua;
+    width: 160px;
+    align-items: center;
+    padding-left: 35px;
+      height: 60px;
+  cursor: pointer;
+   margin-bottom: 5px;
+   text-decoration: none;
+}
+#sub-3:hover{
+    background-color: chartreuse;
+    width: 90px;
+    padding-left: 30px;
+    margin-bottom: 5px;
+    height: 60px;
+}
+#sub-4:hover{
+    background-color: crimson;
+    width: 200px;
+    padding-left: 25px;
+    height: 60px;
+}
+#sub-5:hover{
+    background-color: darksalmon;
+    width: 110px;
+    padding-left: 25px;
+    height: 60px;
+}
+#sub-6:hover{
+    background-color: fuchsia;
+    width: 120px;
+    padding-left: 20px;
+  
+    height: 60px;
+}
+/* section-3 */
+
+.section-3{
+  display: flex;
+  width: 100%;
+
+}
+
+ .s3-div1{
+  margin-top: 35px;
+  padding-left: 30px;
+  width: 50%;
+  margin-right: 10px;
+  height: 480px;
+
+ }
+ .gurantee_banner{
+  width: 100%;
+  height: 100%;
+ }
+
+ .s3-div2{
+  height: 480px;
+  width: 50%;
+  background-color: blueviolet;
+  margin-top: 35px;
+  margin-right: 30px;
+  margin-left: 10px;
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+
+.s3-h1{
+    background-color: brown;
+ 
+    text-align: center;
+    height: 50px;
+    font-size: 1.3rem;
+    align-content: center;
+    color: aliceblue;
+    width: 100%;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 3.5rem;
+   font-size: 1.7rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+margin: 7px;
+width: 100%;
+height: 10px;
+}
+
+.questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 2rem;
+}
+
+.s3-h1-h2{
+    display: flex;   
+}
+
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 2.7rem;
+    text-decoration: none;
+}
+
+.s3-h3{
+    margin-top: 2.7rem;
+    margin-left: 32px;
+    font-size: 1.35rem;
+    font-family: sans-serif;
+}
+.anker-3{
+    text-decoration: none;
+        color: rgb(22, 21, 24);
+        font-weight: bolder;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 3rem;
+}
+.h-4{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height: 20px;
+    width: 13rem;
+    margin-left: 10px;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.confidential{
+  height: 60px;
+  width: 90%;
+}
+
+
+.bigbox-1{
+    margin-top: 12px;
+    margin-left: 3rem;
+}
+#bigbox-1-2{
+    width: 93%;
+    height: 70px;
+    font-size: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.last-h{
+    margin-top: 42px;
+    margin-left: 20px;
+
+}
+.s3-button{
+    display: flex;
+    background-color: brown;
+    color: aliceblue;
+    height: 45px;
+    width: 287px;
+       align-content: center;
+    
+
+}
+.ask{
+    margin-left: 220px;
+    margin-top: -48px;
+    align-content: center;
+}
+
+
+
+/*  
+ 
+
+       width: 46%;
+    height: 460px;
+    background-color: rgb(255, 0, 140);
+    margin-left: 20px;
+    margin-right: 35px;
+
+    background-image: url('pixels/form_bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.h2{
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-top: -22px;
+    margin-left: -48px;
+}
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 35px;
+    text-decoration: none;
+}
+.anker-3{
+    text-decoration: none;
+        color: rgb(22, 21, 24);
+        font-weight: bolder;
+}
+.s3-h3{
+    margin-top: -34px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 22px;
+}
+.h-4{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height: 20px;
+    width: 200px;
+    margin-left: 10px;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 31px;
+    margin-left: 13px;
+}
+.bigbox-1{
+    margin-top: 12px;
+    margin-left: 32px;
+}
+#bigbox-1-2{
+    width: 470px;
+    height: 70px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.last-h{
+    margin-top: 42px;
+    margin-left: 20px;
+
+}
+.s3-button{
+    display: flex;
+    background-color: brown;
+    color: aliceblue;
+    height: 45px;
+    width: 287px;
+       align-content: center;
+    
+
+}
+.ask{
+    margin-left: 220px;
+    margin-top: -48px;
+    align-content: center;
+}
+*/
+/* ........................ */
+    
+@media only screen and (max-width: 1250px) {
+.s3-h3{
+    margin-top: -1rem;
+    margin-left: 22px;
+    font-size: 1.27rem;
+    font-family: sans-serif;
+}
+.anker-3{
+    text-decoration: none;
+        color: rgb(22, 21, 24);
+        font-weight: bolder;
+}
+
+
+
+
+
+  .anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 2.3rem;
+    text-decoration: none;
+}
+
+  .s3-h1{
+    background-color: brown;
+ 
+    text-align: center;
+    height: 40px;
+    font-size: 1rem;
+    align-content: center;
+    color: aliceblue;
+    width: 80%;
+}
+.s3-h2{
+  float: right;
+  padding-left: 2.3rem;
+   font-size: 1.3rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 2.8rem;
+}
+.h-4{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height: 22px;
+    width: 12rem;
+    margin-left: 10px;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 35px;
+    margin-left: 13px;
+}
+.confidential{
+  height: 60px;
+  width: 88%;
+}
+
+
+
+
+}
+@media only screen and (max-width: 1200px) {
+
+  .s3-h3{
+    margin-top: -1.1rem;
+    margin-left: 22px;
+    font-size: 1.20rem;
+    font-family: sans-serif;
+}
+.anker-3{
+    text-decoration: none;
+        color: rgb(22, 21, 24);
+        font-weight: bolder;
+}
+
+   .questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 1.7rem;
+}
+.s3-h1{
+    background-color: brown;
+ 
+    text-align: center;
+    height: 40px;
+    font-size: 1rem;
+    align-content: center;
+    color: aliceblue;
+    width: 80%;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 2.3rem;
+   font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 2.3rem;
+    text-decoration: none;
+}
+
+
+
+
+
+.s3-div1{
+  margin-top: 35px;
+  padding-left: 30px;
+  width: 50%;
+  margin-right: 10px;
+  height: 450px;
+
+ }
+
+ .s3-div2{
+  height: 450px;
+  width: 50%;
+  background-color: blueviolet;
+  margin-top: 35px;
+  margin-right: 30px;
+  margin-left: 10px;
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+
+.s3-h1{
+    background-color: brown;
+    width: 220px;
+    text-align: center;
+    height: 50px;
+    font-size: 2rem;
+    align-content: center;
+    color: aliceblue;
+}
+.h-4{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height: 20px;
+    width: 12rem;
+    margin-left: 10px;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 35px;
+    margin-left: 13px;
+}
+.confidential{
+  height: 55px;
+  width: 11.5rem;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 2rem;
+}
+.bigbox-1{
+    margin-top: 12px;
+    margin-left: 2.3rem;
+}
+#bigbox-1-2{
+    width: 90.3%;
+    height: 70px;
+    font-size: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+}
+
+@media only screen and (max-width: 1150px) {
+
+
+  .s3-h3{
+    margin-top: -1.12rem;
+    margin-left: 22px;
+    font-size: 1.16rem;
+    font-family: sans-serif;
+}
+.anker-3{
+    text-decoration: none;
+        color: rgb(22, 21, 24);
+        font-weight: bolder;
+}
+
+  .questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 1.7rem;
+}
+.s3-h1{
+    background-color: brown;
+ 
+    text-align: center;
+    height: 40px;
+    font-size: 1rem;
+    align-content: center;
+    color: aliceblue;
+    width: 80%;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 2rem;
+   font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 2rem;
+    text-decoration: none;
+}
+.h-4{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height: 20px;
+    width: 95%;
+    margin-left: 1rem;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 35px;
+    margin-left: 1.5rem;
+}
+.confidential{
+  height: 55px;
+  width: 80%;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 2rem;
+}
+
+}
+
+/* section3 starts */
+
+.s3-div1{
+  margin-top: 35px;
+  padding-left: 30px;
+  width: 50%;
+  margin-right: 10px;
+  height: 450px;
+
+ }
+
+ .s3-div2{
+  height: 450px;
+  width: 50%;
+  background-color: blueviolet;
+  margin-top: 35px;
+  margin-right: 30px;
+  margin-left: 10px;
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+
+.s3-h1{
+    background-color: brown;
+    width: 220px;
+    text-align: center;
+    height: 50px;
+    font-size: 2rem;
+    align-content: center;
+    color: aliceblue;
+}
+
+
+
+
+/* section-3ends here */
+
+
+#sub-1:hover{
+    background-color: rgb(255, 123, 0);
+margin-bottom: 5px;
+  padding-left: 2px;
+   height: 50px;
+   width: 55px;
+text-decoration: none;
+cursor: pointer;
+}
+.anker-1{
+     color: beige;
+      text-decoration: none;
+      align-content: center;
+}
+.nav-toggle{
+    color: white;
+      text-decoration: none;
+  
+
+}
+
+#sub-2:hover{
+    background-color: aqua;
+    width: 110px;
+    align-items: center;
+    padding-left: 8px;
+    height: 50px;
+  cursor: pointer;
+   margin-bottom: 5px;
+   text-decoration: none;
+}
+#sub-3:hover{
+    background-color: chartreuse;
+    width: 55px;
+    padding-left: 5px;
+  
+    margin-bottom: 5px;
+    height: 50px;
+}
+#sub-4:hover{
+    background-color: crimson;
+    width: 167px;
+    padding-left: 10px;
+    height: 50px;
+}
+#sub-5:hover{
+    background-color: darksalmon;
+    width: 87px;
+    padding-left: 10px;
+    height: 50px;
+}
+#sub-6:hover{
+    background-color: fuchsia;
+    width: 95px;
+    padding-left: 10px;
+  
+    height: 50px;
+}
+
+
+#navigation{
+    height: 50px;
+    background-color:  brown;
+    align-items: center;
+     width: 100%; 
+}
+#sec-2-headings{
+ margin-right: 45px;
+    float: right;
+    display: flex;
+ 
+    font-size: 15px;
+  font-weight: lighter;
+ gap: 20px;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+
+
+@media only screen and (max-width: 1100px){
+
+.h-4{
+    font-family: sans-serif;
+    font-size: 10px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height:15px;
+    width: 95%;
+    margin-left: 1rem;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 35px;
+    margin-left: 1.5rem;
+}
+.confidential{
+  height: 45px;
+  width: 80%;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 2rem;
+}
+
+
+
+    .s3-h3{
+    margin-top: -1rem;
+    margin-left: 22px;
+    font-size: 1.10rem;
+    font-family: sans-serif;
+}
+  
+}
+
+
+@media only screen and (max-width: 1050px){
+    .s3-h3{
+    margin-top: -1rem;
+    margin-left: 22px;
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+  
+}
+@media only screen and (max-width: 1020px) {
+
+
+     .s3-h3{
+    margin-top: -1rem;
+    margin-left: 22px;
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+  
+
+  /* section3 */
+   .questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 1.7rem;
+}
+.s3-h1{
+    background-color: brown;
+ 
+    text-align: center;
+    height: 40px;
+    font-size: 1rem;
+    align-content: center;
+    color: aliceblue;
+    width: 80%;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 2.3rem;
+   font-size: 1.4rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 32px;
+    text-decoration: none;
+}
+
+.h-4{
+    font-family: sans-serif;
+    font-size: 10px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height: 15px;
+    width: 90%;
+    margin-left: 1rem;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 35px;
+    margin-left: 1.5rem;
+}
+.confidential{
+  height: 40px;
+  width: 80%;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 1.5rem;
+}
+
+.bigbox-1{
+    margin-top: 12px;
+    margin-left: 1.8rem;
+}
+#bigbox-1-2{
+    width: 90.3%;
+    height: 70px;
+    font-size: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+  #navigation{
+    height: 35px;
+    background-color:  brown;
+    align-items: center;
+     width: 100%; 
+}
+#sec-2-headings{
+ margin-right: 30px;
+    float: right;
+    display: flex;
+ 
+    font-size: 11px;
+  font-weight: lighter;
+ gap: 18px;
+    font-family: sans-serif;
+    color: aliceblue;
+    margin-top: -1.5px;
+}
+#sub-1:hover{
+    background-color: rgb(255, 123, 0);
+margin-bottom: 5px;
+  padding-left: 2px;
+   height: 36px;
+   width: 42px;
+text-decoration: none;
+cursor: pointer;
+}
+.anker-1{
+     color: beige;
+      text-decoration: none;
+      align-content: center;
+}
+.nav-toggle{
+    color: white;
+      text-decoration: none;
+      align-content: center;
+
+}
+
+#sub-2:hover{
+    background-color: aqua;
+    width: 85px;
+    align-items: center;
+    padding-left: 8px;
+    height: 35px;
+  cursor: pointer;
+  
+   margin-top: 1px;
+   text-decoration: none;
+}
+#sub-3:hover{
+    background-color: chartreuse;
+    width: 45px;
+    padding-left: 10px;
+  
+    margin-bottom: 5px;
+    height: 35px;
+    margin-top: 1px;
+}
+#sub-4:hover{
+    background-color: crimson;
+    width: 127px;
+    padding-left: 10px;
+    margin-top: 1px;
+    height: 35px;
+}
+#sub-5:hover{
+    background-color: darksalmon;
+    padding-left: 10px;
+    margin-top: 1px;
+    height: 35px;
+      width: 67px;
+}
+#sub-6:hover{
+    background-color: fuchsia;
+    width: 72px;
+    padding-left: 10px;
+  margin-top: 1px;
+    height: 35px;
+}
+
+  .s1-headings {
+
+   margin-right: 30px;
+  margin-top: -1%; 
+
+}
+
+
+  .logo {
+  width: 55%;
+  height: 10rem;
+}
+  
+.h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: brown;
+  font-size: 1.5rem;
+  letter-spacing: -0.5px;
+}
+
+.h2 {
+  margin-top: -3%;
+  font-family: sans-serif;
+  font-size: 2.7rem;
+  font-weight: bolder;
+  letter-spacing: 0.2rem;
+}
+
+.h-3 {
+  margin-top: -8%;
+  font-family: sans-serif;
+  font-size: 1.15rem;
+  letter-spacing: 0.4px;
+}
+.s1-line {
+  width: 100%;
+  margin-top: -6%;
+}
+
+}
+
+
+/* section3 starts */
+@media only screen and (max-width: 980px) {
+
+
+  .questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+.s3-div1{
+  margin-top: 35px;
+  padding-left: 30px;
+  width: 50%;
+  margin-right: 8px;
+  height: 450px;
+
+ }
+
+ .s3-div2{
+  height: 450px;
+  width: 50%;
+  background-color: blueviolet;
+  margin-top: 35px;
+  margin-right: 30px;
+  margin-left: 10px;
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+
+.s3-h1{
+    background-color: brown;
+    width: 220px;
+    text-align: center;
+    height: 50px;
+    font-size: 2rem;
+    align-content: center;
+    color: aliceblue;
+}
+.s3-h2{
+  float: right;
+  padding-left: 2.3rem;
+   font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 1.7rem;
+    text-decoration: none;
+}
+
+
+
+  /* ends3 */
+}
+  @media only screen and (max-width: 935px) {
+
+    .s3-h3 {
+  margin-top: -1.3rem;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.4px;
+}
+}
+
+@media only screen and (max-width: 900px) {
+
+/* section-3 */
+
+    .s3-h3 {
+  margin-top: -1.3rem;
+  font-family: sans-serif;
+  font-size: 0.80rem;
+  letter-spacing: 0.4px;
+}
+.s3-div1{
+  margin-top: 35px;
+  padding-left: 30px;
+  width: 50%;
+  margin-right: 7px;
+  height: 340px;
+
+ }
+
+ .s3-div2{
+  height: 340px;
+  width: 50%;
+  background-color: blueviolet;
+  margin-top: 35px;
+  margin-right: 30px;
+  margin-left: 7px;
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+
+.s3-h1{
+    background-color: brown;
+    width: 220px;
+    text-align: center;
+    height: 40px;
+    font-size: 1.8rem;
+    align-content: center;
+    color: aliceblue;
+}
+
+  .questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+
+.s3-h2{
+  float: right;
+  padding-left: 2rem;
+   font-size: 1.1rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+
+.h-4{
+  margin-top: 3px;
+    font-family: sans-serif;
+    font-size: 9px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height: 12px;
+    width: 90%;
+    margin-left: 1rem;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 35px;
+    margin-left: 1.5rem;
+}
+.confidential{
+  height: 40px;
+  width: 80%;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 1.2rem;
+}
+
+.bigbox-1{
+    margin-top: 12px;
+    margin-left: 1.7rem;
+}
+#bigbox-1-2{
+    width: 90.3%;
+    height: 50px;
+    font-size: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+
+/* ....................... */
+   .s1-headings {
+
+   margin-right: 20px;
+  margin-top: -1%; 
+
+}
+
+
+  .logo {
+  width: 50%;
+  height: 8rem;
+}
+  
+.h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: brown;
+  font-size: 1.2rem;
+  letter-spacing: -0.5px;
+}
+
+.h2 {
+  margin-top: -3%;
+  font-family: sans-serif;
+  font-size: 2.1rem;
+  font-weight: bolder;
+  letter-spacing: 0.2rem;
+}
+
+.h-3 {
+  margin-top: -8%;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.4px;
+}
+.s1-line {
+  width: 100%;
+  margin-top: -6%;
+}
+
+
+}
+
+@media only screen and (max-width: 800px) {
+  /* section-3 */
+  .s3-h3{
+    margin-top: -1.7rem;
+    margin-left: 32px;
+    font-size: 0.7rem;
+    font-family: sans-serif;
+}
+
+  .s3-div1{
+  margin-top: 25px;
+  padding-left: 20px;
+  width: 50%;
+  margin-right: 10px;
+  height: 330px;
+ }
+ .s3-div2{
+  height: 330px;
+  width: 45%;
+  background-color: blueviolet;
+  margin-top: 25px;
+  margin-right: 20px;
+  margin-left: 8px;
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+.s3-h1{
+    background-color: brown;
+    width: 220px;
+    text-align: center;
+    height: 40px;
+    font-size: 1.7rem;
+    align-content: center;
+    color: aliceblue;
+    letter-spacing: 0.5px;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 0.7rem;
+   font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+ .questions{
+  margin-top: 12px;
+  font-weight: bolder;
+  font-size: 1rem;
+}
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 1.4rem;
+    text-decoration: none;
+}
+
+
+.h-4{
+    font-family: sans-serif;
+    font-size: 8.5px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height: 10px;
+    width: 65%;
+    margin-left: 1rem;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 35px;
+    margin-left: -2rem;
+}
+.confidential{
+  height: 25px;
+  width: 85%;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 1.2rem;
+}
+
+
+  
+
+  
+#sub-1:hover{
+    background-color: rgb(255, 123, 0);
+margin-bottom: 5px;
+  padding-left: 2px;
+   height: 30px;
+   margin-top: 2px;
+   width: 35px;
+text-decoration: none;
+cursor: pointer;
+}
+.anker-1{
+     color: beige;
+      text-decoration: none;
+      align-content: center;
+}
+.nav-toggle{
+    color: white;
+      text-decoration: none;
+      align-content: center;
+
+}
+
+#sub-2:hover{
+    background-color: aqua;
+    width: 73px;
+    align-items: center;
+    padding-left: 8px;
+    height: 30px;
+  cursor: pointer;
+  
+   margin-top: 2px;
+   text-decoration: none;
+}
+#sub-3:hover{
+    background-color: chartreuse;
+    width: 40px;
+    padding-left: 10px;
+  
+    margin-bottom: 5px;
+    height: 30px;
+    margin-top: 2px;
+}
+#sub-4:hover{
+    background-color: crimson;
+    width: 106px;
+    padding-left: 10px;
+    margin-top: 2px;
+    height: 30px;
+}
+#sub-5:hover{
+    background-color: darksalmon;
+    padding-left: 10px;
+    margin-top: 2px;
+    height: 30px;
+      width: 56px;
+}
+#sub-6:hover{
+    background-color: fuchsia;
+    width: 60px;
+    padding-left: 10px;
+  margin-top: 2px;
+    height: 30px;
+}
+
+
+
+
+
+   #navigation{
+    height: 30px;
+    background-color:  brown;
+    align-items: center;
+     width: 100%; 
+}
+#sec-2-headings{
+ margin-right: 25px;
+    float: right;
+    display: flex;
+ 
+    font-size: 9px;
+  font-weight: lighter;
+ gap: 15px;
+    font-family: sans-serif;
+    color: aliceblue;
+    margin-top: -2px;
+}
+}
+@media only screen and (max-width: 760px) {
+  .s3-h3{
+    margin-top: -1.7rem;
+    margin-left: 32px;
+    font-size: 0.6rem;
+    font-family: sans-serif;
+}
+
+.bigbox-1{
+    margin-top: 12px;
+    margin-left: 1.4rem;
+}
+#bigbox-1-2{
+    width: 90.98%;
+    height: 50px;
+    font-size: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+}
+
+@media only screen and (max-width: 700px) {
+
+  /* section-3 starts */
+
+.s3-div1{
+  margin-top: 35px;
+  padding-left: 10px;
+  width: 50%;
+  margin-right: 10px;
+  height: 290px;
+
+ }
+
+ .s3-div2{
+  height: 290px;
+  width: 46%;
+  background-color: blueviolet;
+  margin-top: 35px;
+ 
+  margin-left: 5px;
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+
+
+.h-4{
+    font-family: sans-serif;
+    font-size: 6.5px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 7px;
+    height: 7px;
+    width: 62%;
+    margin-left: 1rem;
+}
+.final{
+    rotate: 23deg;
+    margin-top: 26px;
+    margin-left: -2.3rem;
+}
+.confidential{
+  height: 25px;
+  width: 85%;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 1rem;
+    margin-top: 20px;
+}
+
+  /* s-3ends */
+#sub-1:hover{
+    background-color: rgb(255, 123, 0);
+margin-bottom: 00px;
+  padding-left: 2px;
+   height: 27px;
+   margin-top: -2px;
+
+   width: 27px;
+text-decoration: none;
+cursor: pointer;
+}
+.anker-1{
+     color: beige;
+      text-decoration: none;
+      align-content: center;
+}
+.nav-toggle{
+    color: white;
+      text-decoration: none;
+      align-content: center;
+
+}
+
+#sub-2:hover{
+    background-color: aqua;
+    width: 57px;
+    align-items: center;
+    padding-left: 8px;
+    height: 26px;
+  cursor: pointer;
+  
+ margin-top: -1px;
+   text-decoration: none;
+}
+#sub-3:hover{
+    background-color: chartreuse;
+    width: 33px;
+    padding-left: 10px;
+  
+    margin-bottom: 5px;
+    height: 26px;
+    margin-top: -1px;
+}
+#sub-4:hover{
+    background-color: crimson;
+    width: 86px;
+    padding-left: 10px;
+    margin-top: -1px;
+    height: 26px;
+}
+#sub-5:hover{
+    background-color: darksalmon;
+    padding-left: 10px;
+    margin-top: -1px;
+    height: 26px;
+      width: 45px;
+}
+#sub-6:hover{
+    background-color: fuchsia;
+    width: 52px;
+    padding-left: 10px;
+  margin-top: -1px;
+    height: 26px;
+}
+
+
+
+
+
+   #navigation{
+    height: 26px;
+    background-color:  brown;
+    align-items: center;
+     width: 100%; 
+}
+#sec-2-headings{
+ margin-right: 25px;
+    float: right;
+    display: flex;
+ 
+    font-size: 7px;
+  font-weight: lighter;
+ gap: 15px;
+    font-family: sans-serif;
+    color: aliceblue;
+    margin-top: 1px;
+}
+}
+
+@media only screen and (max-width: 660px) {
+.s3-h3{
+    margin-top: -1.5rem;
+    margin-left: 20px;
+    font-size: 0.55rem;
+    font-family: sans-serif;
+}
+
+
+ .s3-div1{
+  margin-top: 25px;
+  padding-left: 20px;
+  width: 50%;
+  margin-right: 10px;
+  height: 250px;
+ }
+ .s3-div2{
+  height: 250px;
+  width: 45%;
+  background-color: blueviolet;
+  margin-top: 25px;
+  margin-right: 20px;
+  margin-left: 8px;
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+.s3-h1{
+    background-color: brown;
+    width: 200px;
+    text-align: center;
+    height: 40px;
+    font-size: 1.7rem;
+    align-content: center;
+    color: aliceblue;
+    letter-spacing: 0.5px;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 0.6rem;
+   font-size: 0.7rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+ .questions{
+  margin-top: 12px;
+  font-weight: bolder;
+  font-size: 1rem;
+}
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.h-4{
+    font-family: sans-serif;
+    font-size: 7.5px;
+    color: rgb(57, 59, 59);
+    margin-top: -5px;
+}
+.box-1{
+    margin-top: 5px;
+    height: 8px;
+    width: 65%;
+    margin-left: 0.6rem;
+}
+.final{
+    rotate: 20deg;
+    margin-top: 25px;
+    margin-left: -2rem;
+}
+.confidential{
+  height: 25px;
+  width: 85%;
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 1rem;
+}
+.bigbox-1{
+    margin-top: 12px;
+    margin-left: 1.4rem;
+}
+#bigbox-1-2{
+    width: 90.98%;
+    height: 40px;
+    font-size: 90%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+}
+
+@media only screen and (max-width: 600px) {
+.s3-h3{
+    margin-top: 2rem;
+    margin-left: 32px;
+    font-size: 1.25rem;
+    font-family: sans-serif;
+}
+
+
+.section-3{
+  flex-direction: column;
+margin-top: 5px;
+
+}
+
+ .s3-div1{
+margin: 0%;
+padding: 0%;
+  width: 100%;
+  height: 400px;
+ }
+ .gurantee_banner{
+  width: 100%;
+  height: 100%;
+ }
+
+ .s3-div2{
+  padding: 0%;
+  height: 400px;
+  width: 100%;
+  background-color: blueviolet;
+  margin: 5px 0% 0% 0%;
+ 
+  
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+
+.s3-h1{
+    background-color: brown;
+ 
+    text-align: center;
+    height: 50px;
+    font-size: 1.3rem;
+    align-content: center;
+    color: aliceblue;
+    width: 100%;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 3.2rem;
+   font-size: 1.3rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+margin: 7px;
+width: 100%;
+height: 10px;
+}
+
+.questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 2rem;
+}
+
+.s3-h1-h2{
+    display: flex;   
+}
+
+.anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 2.2rem;
+    text-decoration: none;
+}
+
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 3rem;
+}
+.h-4{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(57, 59, 59);
+}
+.box-1{
+    margin-top: 10px;
+    height: 20px;
+    width: 13rem;
+    margin-left: 10px;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.confidential{
+  height: 60px;
+  width: 90%;
+}
+
+.bigbox-1{
+    margin-top: 12px;
+    margin-left: 2.9rem;
+}
+#bigbox-1-2{
+    width: 93.4%;
+    height: 60px;
+    font-size: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+  /* ....................... */
+
+  .button{
+    float: right;
+    margin-right: 15px;
+    padding-top: 7px;
+  }
+  .nav-toggle{
+    display: contents;
+  float: right;
+  margin-top: -10px;
+  }
+  .button{
+    color: aliceblue;
+  }
+
+  #navigation{
+    height: 30px;
+    background-color:  brown;
+    align-items: center;
+     width: 100%; 
+}
+#sec-2-headings{
+ margin-right: 25px;
+    float: right;
+    display: flex;
+ display: none;
+    font-size: 9px;
+  font-weight: lighter;
+ gap: 15px;
+    font-family: sans-serif;
+    color: aliceblue;
+    margin-top: -2px;
+}
+
+
+
+  body {
+    background-color: lightblue;
+  }
+
+  .section-1 {
+    flex-direction: column;
+  }
+
+
+  .s1-headings {
+
+ text-align: center;
+align-content: center;
+  margin-top: -1%; 
+
+}
+
+
+  .logo {
+  width: 100%;
+  height: 10rem;
+  margin: 0%;
+}
+  
+.h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: brown;
+  font-size: 1.5rem;
+  letter-spacing: -0.5px;
+  margin-top: 0%;
+}
+
+.h2 {
+
+  margin-top: -5px;
+  font-family: sans-serif;
+  font-size: 2.7rem;
+  font-weight: bolder;
+  letter-spacing: 0.2rem;
+}
+
+.h-3 {
+
+  font-family: sans-serif;
+  font-size: 1.13rem;
+  letter-spacing: 0.4px;
+  margin-top: -18px;
+}
+.s1-line {
+  width: 52%;
+  margin-top: -20px;
+  padding-left: 135px;
+}
+
+
+}
+
+@media only screen and (max-width: 570px) {
+
+.s3-h3{
+    margin-top: 2rem;
+    margin-left: 32px;
+    font-size: 1.20rem;
+    font-family: sans-serif;
+}
+
+
+
+  body {
+    background-color: lightblue;
+  }
+
+.s1-line {
+         width: 54%;
+        margin-top: -20px;
+        padding-left: 119px;
+
+}
+@media only screen and (max-width: 564px){
+  .s1-line{
+                 width: 54%;
+        margin-top: -20px;
+        padding-left: 119px;
+  }
+  
+}
+
+.s3-maindiv{
+
+    display: flex;
+    margin-left: 3rem;
+}
+.h-4{
+    font-family: sans-serif;
+    font-size: 10px;
+    color: rgb(57, 59, 59);
+    margin-top: 2px;
+}
+.box-1{
+    margin-top: 10px;
+    height: 15px;
+    width: 98%;
+    margin-left: 10px;
+}
+.final{
+    rotate: 13deg;
+    margin-top: 35px;
+    margin-left: 25px;
+}
+.confidential{
+  height: 40px;
+  width: 90%;
+}
+
+@media only screen and (max-width: 550px){
+
+  .s3-h3{
+    margin-top: -1.42rem;
+    margin-left: 22px;
+    font-size: 1.10rem;
+    font-family: sans-serif;
+}
+
+
+  .anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 1.8rem;
+    text-decoration: none;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 2.5rem;
+   font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+
+.s3-h1{
+    background-color: brown;
+    width: 220px;
+    text-align: center;
+    height: 40px;
+    font-size: 1.5rem;
+    align-content: center;
+    color: aliceblue;
+}
+  .questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 1.9rem;
+}
+
+
+
+
+
+
+  .s1-line{
+                 width: 58%;
+        margin-top: -20px;
+        padding-left: 107px;
+  }
+}
+
+@media only screen and (max-width: 530px) {
+
+  .s3-h3{
+    margin-top: -1.42rem;
+    margin-left: 22px;
+    font-size: 1.05rem;
+    font-family: sans-serif;
+}
+
+
+.s1-line{
+        width: 62%;
+        margin-top: -20px;
+        padding-left: 90px
+}
+}
+
+@media only screen and (max-width: 500px) {
+
+  .s3-h3{
+    margin-top: -1.42rem;
+    margin-left: 22px;
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+
+.s1-line{
+        width: 63%;
+        margin-top: -20px;
+        padding-left: 84px
+}
+}
+
+
+}
+@media only screen and (max-width: 485px) {
+ .s3-h3{
+    margin-top: -1.42rem;
+    margin-left: 22px;
+    font-size: 0.9rem;
+    font-family: sans-serif;
+}
+
+  .anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 1.8rem;
+    text-decoration: none;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 2.5rem;
+   font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+
+.s3-h1{
+    background-color: brown;
+    width: 220px;
+    text-align: center;
+    height: 40px;
+    font-size: 1.5rem;
+    align-content: center;
+    color: aliceblue;
+}
+  .questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+
+
+
+
+
+.s1-line{
+        width: 65%;
+        margin-top: -20px;
+        padding-left: 77px
+}
+}
+@media only screen and (max-width: 430px) {
+ .s3-h3{
+    margin-top: -1.42rem;
+    margin-left: 22px;
+    font-size: 0.8rem;
+    font-family: sans-serif;
+}
+
+  .anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 2.3rem;
+   font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+
+.s3-h1{
+    background-color: brown;
+    width: 220px;
+    text-align: center;
+    height: 40px;
+    font-size: 1.5rem;
+    align-content: center;
+    color: aliceblue;
+}
+  .questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+
+
+
+
+
+.s1-line{
+        width: 76%;
+        margin-top: -20px;
+        padding-left: 45px
+}
+}
+
+@media only screen and (max-width: 400px) {
+
+  .s3-div1{
+margin: 0%;
+padding: 0%;
+  width: 100%;
+  height: 280px;
+ }
+ .gurantee_banner{
+  width: 100%;
+  height: 100%;
+ }
+
+ .s3-div2{
+  padding: 0%;
+  height: 280px;
+  width: 100%;
+  background-color: blueviolet;
+  margin: 5px 0% 0% 0%;
+ 
+  
+background-image: url(pixels/form_bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+
+
+
+
+
+  .anker-2{
+    color: rgb(41, 12, 121);
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+
+.s3-h2{
+  float: right;
+  padding-left: 2.5rem;
+   font-size: 0.9rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+width: 100%;
+height: 100%;
+}
+
+.s3-h1{
+    background-color: brown;
+    width: 220px;
+    text-align: center;
+    height: 40px;
+    font-size: 0.8rem;
+    align-content: center;
+    color: aliceblue;
+}
+  .questions{
+  margin-top: 7px;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+
+
+
+
+.s1-line{
+width: 78%;
+  margin-top: -20px;
+  padding-left: 36px;
+}
+}
+
+@media only screen and (max-width: 350px) {
+.s1-line{
+width: 61%;
+padding-left: 59px;
+margin-top: -10px;
+}
+.logo{
+  height: 6rem;
+}
+.h1{
+  font-size: 1rem;
+}
+.h2{
+  font-size: 1.6rem;
+}
+.h-3{
+  font-size: 0.73rem;
+  margin-top: -12px;
+}
+}
+
+@media only screen and (max-width: 300px) {
+.s1-line{
+width: 78%;
+padding-left: 26px;
+margin-top: -10px;
+}
+.h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: brown;
+  font-size: 1rem;
+  letter-spacing: -0.5px;
+  margin-top: 0%;
+}
+
+.h2 {
+
+  margin-top: -5px;
+  font-family: sans-serif;
+  font-size: 1.65rem;
+  font-weight: bolder;
+  letter-spacing: 0.2rem;
+}
+
+.h-3 {
+
+  font-family: sans-serif;
+  font-size: 0.73rem;
+  letter-spacing: 0.3px;
+  margin-left: -5px;
+  margin-top: -12px;
+}
+.logo{
+  height: 5rem;
+}
+.s1-headings{
+  padding-left: 12px;
+}
+}
+@media only screen and (max-width: 270px) {
+.s1-line{
+width: 86%;
+  margin-top: -10px;
+  padding-left: 15px;
+}
+}
+
+@media only screen and (max-width: 245px) {
+.s1-line{
+width: 80%;
+  margin-top: -10px;
+  padding-left: 19px;
+}
+.h1{
+  font-size: 0.8rem;
+}
+.h2{
+  font-size: 1.2rem;
+}
+.h-3{
+  font-size: 0.57rem;
+  margin-top: -8px;
+}
+}
