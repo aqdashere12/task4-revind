@@ -405,6 +405,9 @@ margin-right: 10%;
 .div2-heading-3{
   font-size: 2.7vw;
 }
+.law-blog{
+  font-size: 26px;
+}
 
 
 
@@ -541,6 +544,111 @@ height: 15px;
 .additional-h{
   font-family: sans-serif; font-size: 20px; margin-top: -10px;
 }
+
+/* .s4-div3 */
+.top-gen{
+  display: flex;
+ gap: 8%;
+ margin-top: 3rem;
+ padding-left: 10%;
+}
+.top{
+  width: 90%;
+
+}
+.gen{
+width: 80%;
+}
+.certificates{
+  font-size: 2vw;
+  font-weight: bold;
+  padding-left: 10%;
+}
+.years{
+  padding-left: 10%;
+  font-size: 1.5vw;
+  margin-top: -4%;
+  height: 10%;
+  margin-bottom: 3%;
+}
+.click-line{
+  width: 70%;
+margin: 0%;
+margin-left: 14%;
+margin-top: 5px;
+height: 0.5px;
+background-color: black;
+}
+.mybut{
+  background-color: brown;
+  width: 45%;
+  height: 100%;
+  font-size: 1.3vw;
+margin-left: 30%;
+text-align: start;
+color: aliceblue;
+margin-top: -3px;
+
+
+}
+.click{
+
+padding-top: 4%;
+}
+
+.section-5{
+ 
+width: 100%;
+height: 600px;
+margin-top: 50px;
+display: flex;
+}
+.s5-div1{
+  width: 25%;
+
+  margin-left: 2%;
+
+}
+.s5-h1{
+  font-size: 2vw;
+  font-weight: bold;
+}
+.s5-div2{
+  width: 50%;
+  background-color: rgb(55, 0, 255);
+  margin-left: 2%;
+}
+.s5-div3{
+  width: 25%;
+  background-color: rgb(0, 255, 0);
+  margin-left: 2%;
+ 
+}
+.s5-button1{
+  background-color: rgb(154, 163, 163);
+  height: 14%;
+  width: 95%;
+  margin-bottom: 5%;
+}
+.s5-button2{
+  background-color: rgb(154, 163, 163);
+  height: 14%;
+  width: 95%;
+  margin-bottom: 5%;
+}
+.s5-button3{
+  background-color: rgb(154, 163, 163);
+  height: 14%;
+  width: 95%;
+  margin-bottom: 5%;
+}
+.s5-button4{
+  background-color: rgb(154, 163, 163);
+  height: 14%;
+  width: 95%;
+  margin-bottom: 5%;
+}
+
 /*  
  
 
@@ -1335,7 +1443,7 @@ cursor: pointer;
 }
 
 .s4-div2{
-
+  height: 420px;
   width: 36%
   
 }
@@ -1666,9 +1774,9 @@ height: 12px;
 }
 
 .s4-div2{
- 
+   height: 420px;
   width: 36%
-  
+   
 }
 .s4-div3{
    width: 32%;
@@ -1963,7 +2071,7 @@ height: 12px;
 }
 
 .s4-div2{
- 
+   height: 300px;
   width: 36%
   
 }
@@ -2194,7 +2302,17 @@ width: 130px;
   
 height: 9px;
 }
-  
+  .click-line{
+  width: 70%;
+margin: 0%;
+margin-left: 14%;
+margin-top: 5px;
+height: 0.5px;
+background-color: black;
+}
+.mybut{
+
+}
 }
 @media only screen and (max-width: 1020px) {
 
@@ -2455,7 +2573,17 @@ cursor: pointer;
   width: 100%;
   margin-top: -6%;
 }
+  .click-line{
+  width: 70%;
+margin: 0%;
+margin-left: 14%;
+margin-top: 7px;
+height: 0.5px;
+background-color: black;
+}
+.mybut{
 
+}
 }
 
 
@@ -2547,11 +2675,12 @@ height: 100%;
 }
 
 .s4-div2{
- 
+   height: 300px;
   width: 36%
   
 }
 .s4-div3{
+     height: 300px;
    width: 32%;
    background-color: bisque;
 }
@@ -2627,11 +2756,11 @@ margin-right: 10%;
 }
 
 .law-blog{
-  font-size: 1.5vw;
+  font-size: 1.3vw;
 font-weight: bold;
 }
 .additional-h{
-  font-family: sans-serif; font-size: 12px;
+  font-family: sans-serif; font-size: 10px;
    margin-top: -10px;
 }
 .div2-heading-3{
@@ -2664,9 +2793,9 @@ font-weight: bold;
     height: 25px;
     color: aliceblue;
     align-items: center;
-    font-size: 9px;
+    font-size: 7px;
     font-family: sans-serif;
-    width: 60%;
+    width: 50%;
     margin-left: 45px;
 }
 
@@ -2681,7 +2810,7 @@ font-weight: bold;
     height: 25px;
     color: aliceblue;
     align-items: center;
-    font-size: 9px;
+    font-size: 7px;
     font-family: sans-serif;
     width: 70%;
     margin-left: 55px;
@@ -2706,12 +2835,12 @@ font-weight: bold;
 height: 9px; 
 margin-left: 10px;
  margin-top: 2.5px;
- width: 40%;
+ width: 35%;
 }
 .img2-additional{
   margin-top: -3px;
-  width: 130px; 
-  height: 90px;
+  width: 100px; 
+  height: 70px;
 }
 .additional-5{
             margin-left: -21px;
@@ -2734,7 +2863,7 @@ margin-left: 10px;
   font-weight: bold;
   margin-left: 10px;
 color: brown; text-decoration: none;
-font-size: 1.5vw;
+font-size: 1.3vw;
 margin-bottom: 10px;
 }
 .CASE{
@@ -2745,7 +2874,7 @@ font-size: 1.5vw;
 }
 .see-how{
 margin-top: 30px;
- font-size: 12px;
+ font-size: 9px;
 
  font-family: sans-serif;
   margin: 0%;
@@ -2754,12 +2883,12 @@ margin-top: 30px;
 }
 .img3-additional{
   margin-top: 15px;
-   margin-left: -55%;
+   margin-left: -75%;
  
 }
 .img3-additional2{
-height: 100px;
-width: 130px;
+height: 90px;
+width: 110px;
 }
 .additional-6{
    margin-top: -35px;
@@ -2767,7 +2896,7 @@ width: 130px;
 .additional-line2{
  color: gray; 
  width:50%;
- margin-top: 25px;
+ margin-top: 14px;
  padding-left: 18%;
 }
 .img4-additional1{
@@ -2942,7 +3071,7 @@ margin-left: -30px;
   width: 32%;
   margin-right: 20px;
   height: 300px;
-  background-color: chartreuse;
+ 
 }
 
 .s4-heading1{
@@ -2952,11 +3081,12 @@ margin-left: -30px;
 }
 
 .s4-div2{
-  background-color: aqua;
+   height: 300px;
   width: 36%
-  
+   
 }
 .s4-div3{
+   height: 300px;
    width: 32%;
    background-color: bisque;
 }
@@ -3037,7 +3167,6 @@ margin-right: 10%;
 
 
 
-/* ....................... */
    .s1-headings {
 
    margin-right: 20px;
@@ -3095,7 +3224,7 @@ margin-right: 10%;
   width: 32%;
   margin-right: 20px;
   height: 230px;
-  background-color: chartreuse;
+
 }
 
 .s4-heading1{
@@ -3105,13 +3234,15 @@ margin-right: 10%;
 }
 
 .s4-div2{
-  background-color: aqua;
+   height: 230px;
+
   width: 36%
   
 }
 .s4-div3{
+   height: 230px;
    width: 32%;
-   background-color: bisque;
+
 }
 .anker-4{
     font-family: sans-serif;
@@ -3185,17 +3316,183 @@ margin-right: 5%;
   height: 7px;
 margin-top: -15px;
 }
-/* s4-ends */
-  
+
+.law-blog{
+  font-size: 1.3vw;
+font-weight: bold;
+}
+.additional-h{
+  font-family: sans-serif; font-size: 10px;
+   margin-top: -10px;
+}
+.div2-heading-3{
+  font-size: 2vw;
 }
 
 
+
+.additional-3{
+  display: flex;
+   justify-content: space-around;
+}
+.div2-anker1{
+
+    text-decoration: none;
+    color: rgb(165, 112, 42);
+   
+}
+.div2-line-1{
+    width: 100px;
+    color: gray;
+    height: 0.2px;
+    background-color: gray;
+    margin-left: 10px;
+}
+
+.div2-button1{
+    background-color: brown;
+    align-content: center;
+    display: flex;
+    height: 25px;
+    color: aliceblue;
+    align-items: center;
+    font-size: 4px;
+    font-family: sans-serif;
+    width: 55%;
+    margin-left: 35px;
+}
+
+.div2-img2{
+    margin-top: 05px;
+    margin-left: 4px;
+}
+.div2-button2{
+   background-color: brown;
+    align-content: center;
+    display: flex;
+    height: 25px;
+    color: aliceblue;
+    align-items: center;
+    font-size: 5px;
+    font-family: sans-serif;
+    width: 60%;
+    margin-left: 55px;
+    
+}
+
+.div2-line-2{
+      width: 155px;
+    color: gray;
+    height: 0.2px;
+   margin-left: 05px;
+    background-color: gray;
+  
+
+}
+.additional-4{
+   height: 0.2px; 
+   background-color: gray;
+    color: gray;
+}
+.img1-additional{
+height: 9px; 
+margin-left: 10px;
+ margin-top: 2.5px;
+ width: 35%;
+}
+.img2-additional{
+  margin-top: 13px;
+  width: 80px; 
+  height: 50px;
+  margin-left: 10px;
+}
+.additional-5{
+            margin-left: -21px;
+             margin-top: 25px;
+
+}
+.additional-line1{
+  color: rgb(153, 147, 147);
+   width: 300px; 
+  height: 0.5px;
+   margin-top: 34px;
+   margin-left: -22px;
+   margin-right: 0%;
+}
+.d2-part2{
+   margin-top: -20px; display: flex;
+}
+
+.results{
+  font-weight: bold;
+  margin-left: 10px;
+color: brown; text-decoration: none;
+font-size: 1.3vw;
+margin-bottom: 10px;
+}
+.CASE{
+  margin-top: 30px;
+  font-weight: bold;
+
+font-size: 1.5vw;
+}
+.see-how{
+margin-top: 30px;
+ font-size: 9px;
+
+ font-family: sans-serif;
+  margin: 0%;
+  width: 12rem;
+  margin-top: -20px;
+}
+.img3-additional{
+  margin-top: 15px;
+   margin-left: -75%;
+ 
+}
+.img3-additional2{
+height: 70px;
+width: 90px;
+}
+.additional-6{
+   margin-top: -35px;
+  
+}
+.additional-line2{
+ color: gray; 
+ width:0%;
+ margin-top: 14px;
+ 
+}
+.img4-additional1{
+   margin-left: 7px;
+    margin-top: 2px;
+}
+.img4-additional2{
+  
+height: 9px;
+}
+  
+}
+
+/* s4-ends */
   
   
 
 
 @media only screen and (max-width: 800px) {
+  .click-line{
+  width: 70%;
+margin: 0%;
+margin-left: 14%;
+margin-top: 9px;
+height: 0.5px;
+background-color: black;
+}
+.mybut{
+  margin-top: -5%;
 
+}
     .line-1{
     height: 44%;
     margin-top: 33px;
@@ -3428,7 +3725,7 @@ cursor: pointer;
   width: 32%;
   margin-right: 20px;
   height: 220px;
-  background-color: rgb(255, 166, 0);
+
 }
 
 .s4-heading1{
@@ -3438,11 +3735,13 @@ cursor: pointer;
 }
 
 .s4-div2{
-  background-color: aqua;
+  height: 220px;
+
   width: 36%
   
 }
 .s4-div3{
+  height: 220px;
    width: 32%;
    background-color: bisque;
 }
@@ -3588,7 +3887,7 @@ margin-top: 15px;
   width: 32%;
   margin-right: 20px;
   height: 200px;
-  background-color: rgb(255, 166, 0);
+  
 }
 
 .s4-heading1{
@@ -3598,11 +3897,13 @@ margin-top: 15px;
 }
 
 .s4-div2{
-  background-color: aqua;
+    height: 200px;
+
   width: 36%
   
 }
 .s4-div3{
+    height: 200px;
    width: 32%;
    background-color: bisque;
 }
@@ -3878,7 +4179,7 @@ cursor: pointer;
   width: 32%;
   margin-right: 20px;
   height: 200px;
-  background-color: rgb(255, 166, 0);
+
 }
 
 .s4-heading1{
@@ -3888,11 +4189,13 @@ cursor: pointer;
 }
 
 .s4-div2{
-  background-color: aqua;
+   height: 200px;
+
   width: 36%
   
 }
 .s4-div3{
+   height: 200px;
    width: 32%;
    background-color: bisque;
 }
@@ -4120,7 +4423,7 @@ margin-top: 23px;
   width: 32%;
   margin-right: 20px;
   height: 176px;
-  background-color: rgb(255, 166, 0);
+
 }
 
 .s4-heading1{
@@ -4130,11 +4433,13 @@ margin-top: 23px;
 }
 
 .s4-div2{
-  background-color: aqua;
+    height: 176px;
+  
   width: 36%
   
 }
 .s4-div3{
+    height: 176px;
    width: 32%;
    background-color: bisque;
 }
@@ -4270,6 +4575,7 @@ margin-top: 23px;
 
 
 @media only screen and (max-width: 600px) {
+  
 .s3-h3{
     margin-top: 2rem;
     margin-left: 32px;
@@ -4461,14 +4767,26 @@ height: 10px;
 
 
 
-  body {
-    background-color: lightblue;
-  }
+  
 
   .section-1 {
     flex-direction: column;
   }
+.s11-line {
+  width: 90%;
+  margin-top: -6%;
+  margin-left: 4.5%;
+  margin-top: 1px;
 
+}
+
+.line-1p {
+ 
+  margin-top: -12px;
+  width: 72%;
+  height: 0.2rem;
+  background-color: rgb(17, 17, 17);
+}
 
   .s1-headings {
 
@@ -4529,7 +4847,7 @@ margin-top: 5px;
   margin-right: 20px;
   height: 420px;
   margin-top: 10px;
-  background-color: lightblue;
+
 }
 
 .s4-heading1{
@@ -4539,13 +4857,12 @@ margin-top: 5px;
 }
 
 .s4-div2{
-  background-color: aqua;
-  width: 36%
+
   
 }
 .s4-div3{
-   width: 32%;
-   background-color: bisque;
+   width: 100%;
+
 }
 .anker-4{
     font-family: sans-serif;
@@ -4606,7 +4923,7 @@ margin-right: 10%;
    width: 220px; 
    background-color: rgb(83, 82, 82);
     height: 0.5px;
-    margin-left: 120px;
+ 
     margin-top: 20px;
 }
 .additional-2{
@@ -4623,7 +4940,291 @@ margin-right: 10%;
     display: none;
 }
 
+.s4-div2{
+  
+  width: 100%;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+  height: 450px;
+}
+.div2-heading-3{
+  font-size: 2.7vw;
+}
 
+.law-blog{
+  font-size: 26px;
+}
+
+.additional-3{
+  display: flex;
+   justify-content: space-around;
+}
+.div2-anker1{
+
+    text-decoration: none;
+    color: brown;
+}
+.div2-line-1{
+    width: 220px;
+    color: gray;
+    height: 0.2px;
+    background-color: gray;
+}
+
+.div2-button1{
+    background-color: brown;
+    align-content: center;
+    display: flex;
+    height: 35px;
+    color: aliceblue;
+    align-items: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    width: 140px;
+    margin-left: 55px;
+}
+
+.div2-img2{
+    margin-top: 30px;
+  
+}
+.div2-button2{
+   background-color: brown;
+    align-content: center;
+    display: flex;
+    height: 35px;
+    color: aliceblue;
+    align-items: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    width: 140px;
+    margin-left: 55px;
+    margin-top: 0%;
+    
+}
+
+.div2-line-2{
+      width: 20%;
+    color: gray;
+    height: 0.2px;
+    background-color: gray;
+    margin-top: 10%;
+
+}
+.additional-4{
+   height: 0.2px; 
+   background-color: gray;
+    color: gray;
+}
+.img1-additional{
+height: 15px; 
+margin-left: 10px;
+ margin-top: 2.3px;
+}
+.img2-additional{
+  width: 50%; 
+  height: 115px;
+}
+.additional-5{
+           width: 90%;
+             margin-top: 25px;
+background-color: black;
+
+}
+.additional-line1{
+  color: rgb(153, 147, 147);
+   width: 20px; 
+  height: 0.5px;
+   margin-top: 34px;
+   margin-left: -22px;
+   margin-right: 0%;
+}
+.d2-part2{
+   margin-top: -20px; 
+   width: 70%;
+   display: flex;
+}
+
+.results{
+  font-weight: bold;
+  margin-left: 10px;
+color: brown; text-decoration: none;
+font-size: 26px;
+}
+.CASE{
+  font-weight: bold;
+
+font-size: 26px;
+}
+.see-how{
+margin-top: -25px;
+ font-size: 18px;
+ font-family: sans-serif;
+  margin: 0%;
+  width: 15rem;
+  margin-top: -20px;
+}
+.img3-additional{
+  margin-top: 30px;
+   margin-left: 5%;
+ 
+}
+.img3-additional2{
+height: 110px;
+}
+.additional-6{
+   margin-top: -35px;
+}
+.additional-line2{
+ color: gray; 
+ width:220px ;
+ margin-top: 20px;
+}
+.img4-additional1{
+   margin-left: 7px;
+    margin-top: 4px;
+}
+.img4-additional2{
+  
+height: 15px;
+}
+
+
+.additional-h{
+  font-family: sans-serif; font-size: 20px; margin-top: -10px;
+}
+/* .s4-div3 */
+.s4-div3{
+  margin-top: 40px;
+  height: 500px;
+}
+.top-gen{
+  display: flex;
+ gap: 0%;
+ margin-top: 3rem;
+ padding-left: 10%;
+}
+.top{
+  width: 60%;
+margin-left: 20px;
+}
+.gen{
+width: 55%;
+margin-right: 20px;
+}
+.certificates{
+  font-size: 6vw;
+  font-weight: bold;
+ 
+  align-items: center;
+  align-content: center;
+  text-align: center;
+ margin-left: -12%;
+}
+.years{
+ 
+  font-size: 4.5vw;
+  margin-top: -10%;
+  height: 10%;
+  margin-bottom: 3%;
+  margin-left: 4%;
+}
+.click-line{
+  width: 46%;
+margin: 0%;
+margin-left: 42%;
+margin-top: -10%;
+height: 0.5px;
+background-color: black;
+margin-top: 20px;
+}
+.xp{
+  display: none;
+}
+.mybut{
+  background-color: brown;
+  width: 35%;
+  height: 100%;
+  font-size: 3.3vw;
+margin-left: 50%;
+text-align: start;
+color: aliceblue;
+margin-top: -1px;
+
+
+}
+.click{
+
+margin-top: -15px;
+
+
+}
+.section-5{
+
+width: 100%;
+height: 1800px;
+margin-top: 870px;
+flex-direction: column;
+
+}
+.s5-div1{
+  width: 100%;
+
+  margin-left: 2%;
+  height: 600px;
+  margin-top: 20px;
+ 
+}
+.s5-div2{
+  width: 100%;
+ 
+  margin-left: 2%;
+  height: 600;
+   margin-top: 20px;
+}
+.s5-div3{
+   margin-top: 20px;
+  width: 100%;
+  background-color: rgb(255, 0, 119);
+  margin-left: 2%;
+  height: 600;
+}
+.s5-button1{
+ margin-left: 12.5%;
+  background-color: rgb(154, 163, 163);
+  height: 14%;
+ width: 75%;
+  margin-bottom: 5%;
+}
+.s5-button2{
+margin-left: 12.5%;
+  background-color: rgb(154, 163, 163);
+  height: 14%;
+ width: 75%;
+  margin-bottom: 5%;
+}
+.s5-button3{
+ margin-left: 12.5%;
+  background-color: rgb(154, 163, 163);
+  height: 14%;
+  width: 75%;
+  margin-bottom: 5%;
+}
+.s5-button4{
+   margin-left: 12.5%;
+  background-color: rgb(154, 163, 163);
+  height: 14%;
+ width: 75%;
+  margin-bottom: 5%;
+}
+.s5-h1{
+  font-size: 6vw;
+  font-weight: bold;
+  margin-left: 12.5%;
+padding-top: 10px;
+width: 70%;
+}
 }
 
 @media only screen and (max-width: 570px) {
