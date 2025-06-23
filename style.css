@@ -599,7 +599,7 @@ padding-top: 4%;
 .section-5{
  
 width: 100%;
-height: 600px;
+height: auto;
 margin-top: 50px;
 display: flex;
 }
@@ -615,40 +615,225 @@ display: flex;
 }
 .s5-div2{
   width: 50%;
-  background-color: rgb(55, 0, 255);
+margin-top: -1%;
   margin-left: 2%;
 }
 .s5-div3{
   width: 25%;
-  background-color: rgb(0, 255, 0);
+  
   margin-left: 2%;
  
 }
 .s5-button1{
   background-color: rgb(154, 163, 163);
-  height: 14%;
+  height: 9%;
   width: 95%;
   margin-bottom: 5%;
+  display: flex;
 }
 .s5-button2{
   background-color: rgb(154, 163, 163);
-  height: 14%;
+ height: 9%;
   width: 95%;
   margin-bottom: 5%;
+  display: flex;
 }
 .s5-button3{
   background-color: rgb(154, 163, 163);
-  height: 14%;
+height: 9%;
   width: 95%;
   margin-bottom: 5%;
 }
 .s5-button4{
   background-color: rgb(154, 163, 163);
-  height: 14%;
+height: 9%;
   width: 95%;
   margin-bottom: 5%;
 }
+.redline{
+  height: 100%;
+}
+.b-1{
+  width: 97%;
+   background-color: rgb(154, 163, 163);
+   color: white;
+   border: none;
+}
+.b1-div{
+  font-size: 1.2vw;
+  display: flex;
+  flex-direction: row;
+  gap: 1%;
+  float: right;
+margin-right: -10%;
+  width: 70%;
+  margin-top: -7%;
+  font-weight: bold;
+  display: flexbox;
+  
+}
+.red-bulet{
+  height: 55%;
+   padding-top: 8%;
+  width: 38%;
+  
+}
+.dui{
+  font-size: 2vw;
+  margin-top: -10%;
+  margin-right: 40%;
+  font-weight: bolder;
+}
+.myself{
+  height: 88%;
+  width: 20%;
+  padding-top: 7%;
+}
+.reck{
+  font-size: 1.6vw;
+  font-weight: bold;
+ margin-top: -8%;
+ text-align: left;
+ margin-left: 6%;
+}
+.b2-div{
+   font-size: 1.2vw;
+  display: flex;
+  flex-direction: row;
+  gap: 1%;
+  float: right;
+margin-right: -10%;
+  width: 70%;
+  margin-top: -3%;
+  font-weight: bold;
+  display: flexbox;
+}
+.learn-more{
+  font-size: 2vw;
+  font-weight: bold;
+}
 
+.menu{
+  width: 10%;
+  text-align: center;
+  padding-left: 35%;
+ 
+}
+.ankru{
+text-decoration: none;
+color: rgb(209, 207, 203);
+font-family: sans-serif;
+font-weight: bolder;
+font-size: 2vw;
+text-align: center;
+
+}
+
+.page{
+font-size: 3vw;
+}
+.lorem{
+font-size: 1.5vw;
+height: 80%;
+line-height: 2.5vw;
+
+}
+/* section-5-div3 */
+.clients{
+  font-size: 2.2vw;
+  font-weight: bolder;
+  padding-left: 5%;
+}
+.read-what{
+  font-size: 1.8vw;
+  font-family: sans-serif;
+  margin-top: -5%;
+  padding-left: 5%;
+}
+.sedu{
+  width: 80%;
+  margin: 0%;
+  padding: 0%;
+  background-color: black;
+  color: black;
+ 
+}
+.learn-more-1{
+  width: 80%;
+}
+.buttnu{
+  font-size: 1.3vw;
+  background-color: brown;
+  color: white;
+  display: flex;
+  margin-left: 25%;
+gap: 5px;
+
+}
+.gif{
+  height: 1.5vw;
+  margin-top: 1%; 
+}
+.src{
+  height: 85%;
+}
+.download{
+  font-size: 1.8vw;
+  font-weight: bold;
+    padding-left: 5%;
+}
+.discover{
+  padding-left: 5%;
+  font-size: 1.4vw;
+  font-family: sans-serif;
+  margin-top: -5% 
+}
+.contact{
+    font-size: 1.8vw;
+  font-weight: bold;
+    padding-left: 5%;
+}
+.get{
+    padding-left: 5%;
+  font-size: 1.4vw;
+  font-family: sans-serif;
+  margin-top: -5% 
+
+}
+
+.avo{
+  width: 53%;
+
+  margin-top:10%;
+  padding-left: 15%;
+}
+.large{
+  width: 100%;
+}
+.follow{
+  font-size: 2.2vw;
+  font-weight: bolder;
+padding-left: 12%;
+word-spacing: 2%;
+}
+.shadow{
+ 
+  margin-top: -17%;
+  width: 95%
+  
+}
+.shade{
+height: 0.5vw;
+  margin-left: -9%;
+  width: 100%;
+}
+.icons{
+  padding-left: 3.7%;
+  width: 70%;
+}
+.fb{
+  width: 20%;
+}
 /*  
  
 
@@ -1063,6 +1248,7 @@ height: 110px;
   
 height: 15px;
 }
+
 }
 @media only screen and (max-width: 1200px) {
 
@@ -2581,7 +2767,10 @@ margin-top: 7px;
 height: 0.5px;
 background-color: black;
 }
-.mybut{
+.lorem{
+font-size: 1.8vw;
+height: 80%;
+line-height: 2.5vw;
 
 }
 }
@@ -3161,7 +3350,12 @@ margin-right: 10%;
   height: 7px;
 }
 
-  
+  .lorem{
+font-size: 2vw;
+height: 80%;
+line-height: 2.5vw;
+
+}
 }
 /* s4-ends */
 
@@ -3817,6 +4011,12 @@ margin-right: 5%;
   height: 6px;
 margin-top: -15px;
 }
+  .lorem{
+font-size: 2.4vw;
+height: 80%;
+line-height: 2.5vw;
+
+}
 }
 @media only screen and (max-width: 760px) {
   .s3-h3{
@@ -4273,7 +4473,12 @@ margin-top: -20px;
 margin-left: 4px;
 }
 
+  .lorem{
+font-size: 2.7vw;
+height: 80%;
+line-height: 2.5vw;
 
+}
 
 
 
@@ -5186,7 +5391,7 @@ flex-direction: column;
 .s5-div3{
    margin-top: 20px;
   width: 100%;
-  background-color: rgb(255, 0, 119);
+ 
   margin-left: 2%;
   height: 600;
 }
@@ -5198,7 +5403,7 @@ flex-direction: column;
   margin-bottom: 5%;
 }
 .s5-button2{
-margin-left: 12.5%;
+ margin-left: 12.5%;
   background-color: rgb(154, 163, 163);
   height: 14%;
  width: 75%;
@@ -5224,6 +5429,231 @@ margin-left: 12.5%;
   margin-left: 12.5%;
 padding-top: 10px;
 width: 70%;
+}
+redline{
+  height: 100%;
+}
+.b-1{
+  width: 97%;
+   background-color: rgb(154, 163, 163);
+   color: white;
+   border: none;
+}
+.b1-div{
+  font-size: 3.2vw;
+  display: flex;
+  flex-direction: row;
+  gap: 1%;
+  float: right;
+margin-right: -20%;
+  width: 70%;
+  margin-top: -12%;
+  font-weight: bold;
+  display: flexbox;
+  
+}
+.red-bulet{
+  height: 35%;
+
+  width: 38%;
+  
+}
+.dui{
+  font-size: 6vw;
+  margin-top: -7%;
+  margin-right: 40%;
+  font-weight: bolder;
+}
+.myself{
+  height: 50%;
+  width: 20%;
+ margin-top: -10px;
+}
+.reck{
+font-size: 5vw;
+  margin-top: -7%;
+ margin-left: 8%;
+  font-weight: bolder;
+  width: 85%;
+}
+.b2-div{
+   font-size: 3.2vw;
+  display: flex;
+  flex-direction: row;
+  gap: 1%;
+  float: right;
+margin-right: -20%;
+  width: 70%;
+  margin-top: -6.5%;
+  font-weight: bold;
+  display: flexbox;
+}
+.learn-more{
+  font-size: 4vw;
+  font-weight: bold;
+ text-align: left;
+ padding-left: 12%;
+}
+.menu{
+  width: 100%;
+  text-align: start;
+ padding: 0%;
+ margin: 0%;
+ padding-left: 20%;
+padding-top: 3%;
+ word-spacing: 17vw;
+}
+.ankru{
+
+  padding: 0%;
+ margin: 0%;
+text-decoration: none;
+color: rgba(19, 18, 18, 0.644);
+font-family: sans-serif;
+font-weight: 600;
+font-size: 3vw;
+text-align: start;
+
+
+}
+.s5-div2{
+  width: 80%;
+  padding-left: 11%;
+}
+.page{
+  padding-top: 10%;
+font-size: 5vw;
+font-family: sans-serif;
+font-weight: bold;
+
+}
+.lorem{
+ margin-top: -3%;
+font-size: 2.9vw;
+height: 80%;
+line-height: 4.5vw;
+
+}
+/* section-5-div3 */
+.s5-div3{
+   margin-top: 20px;
+  width: 100%;
+ 
+margin: 0%;
+padding: 0%;
+  height: 600;
+}
+
+.clients{
+  font-size: 4.7vw;
+  font-weight: bolder;
+  padding-left: 5%;
+  display: flex;
+ display: flexbox;
+ padding-left: 20%;
+}
+.bru{
+  display: none;
+}
+.read-what{
+  font-size: 2.8vw;
+  font-family: sans-serif;
+  margin-top: -5%;
+  padding-left: 20%;
+}
+.sedu{
+  width: 53%;
+  margin: 0%;
+  padding: 0%;
+  background-color: black;
+  color: black;
+  margin-left: 22%;
+ 
+}
+.learn-more-1{
+  width: 80%;
+}
+
+.learn-more-1{
+  width: 80%;
+}
+.buttnu{
+  font-size: 3.3vw;
+  background-color: brown;
+  color: white;
+  display: flex;
+  margin-left: 45%;
+gap: 5px;
+
+}
+.gif{
+  height: 3vw;
+  margin-top: 1%; 
+}
+.src{
+  height: 85%;
+}
+.download{
+  font-size: 4.7vw;
+  font-weight: bolder;
+ margin-left: -6%;
+  display: flex;
+ display: flexbox;
+ padding-left: 20%;
+}
+.discover{
+  font-size: 2.8vw;
+  font-family: sans-serif;
+  margin-top: -5%;
+  padding-left: 25%;
+}
+.contact{
+ font-size: 4.7vw;
+  font-weight: bolder;
+  padding-left: 5%;
+  display: flex;
+ display: flexbox;
+ padding-left: 20%;
+}
+.get{
+  font-size: 2.8vw;
+  font-family: sans-serif;
+  margin-top: -5%;
+  padding-left: 23%;
+
+}
+
+.avo{
+  width: 23%;
+  margin-top:4%;
+  padding-left: 35%;
+}
+.large{
+  width: 100%;
+}
+.follow{
+  font-size: 5.2vw;
+  font-weight: bolder;
+padding-left: 28%;
+word-spacing: 2%;
+}
+.shadow{
+ margin-left: -15%;
+  margin-top: -12%;
+  width: 95%
+  
+}
+.shade{
+height: 0.5vw;
+  margin-left: -9%;
+  width: 100%;
+}
+.icons{
+  padding-left: 1.2%;
+  width: 50%;
+}
+.fb{
+  width: 20%;
 }
 }
 
